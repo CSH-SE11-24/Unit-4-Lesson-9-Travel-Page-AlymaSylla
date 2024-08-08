@@ -1,0 +1,40 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: maroon!important;
+  font-family: 'Courier New', Courier, monospace !important;
+  color:white !important;
+
+}
+
+#color{
+  background-color:  darkgreen;
+}
+
+.mali{
+  width:90px;
+}
+
+.navbar-brand{
+  color:white !important;
+}
+
+.food{
+  text-align: center;
+  width: 100%;
+}
+
+.navbar{
+  text-align: center;
+}
+
+.facts{
+  width:100px;
+}
+
+h1{
+  text-align: center;
+}
